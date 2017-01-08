@@ -23,6 +23,7 @@
 
 
 **Today's Progress**: Did a technical interview in python in addition to deploying a new version of my site. Not much focus on "learning" or reading through tutorials at least for today. 
+
 **Thoughts:** I'm planning on doing a deep dive into git. I think that I have a lot of gray areas there and could benefit from dedicating some time to figure out how to effectively trouble shoot and track down bugs to the commits in which they were introduced.
 
 **Link to work:** [Tassly](https://www.tassly.com)
