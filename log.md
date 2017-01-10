@@ -36,3 +36,12 @@
 **Thoughts:** Feeling good, making good progress, just gotta keep it up.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 5: January 09, 2017
+
+
+**Today's Progress**: Spent some time refactoring my Express routes in my app with ES6 and ran into some issues with my passport configuration. 
+
+**Thoughts:** I'm starting to think that the asynchronous side of Javascript was intentionally designed by a very sick, evil, and disturbing human being. I'm also starting to develop insomnia...so far so good though.
+
+**Link to work:** [Tassly](https://www.tassly.com)
