@@ -45,3 +45,12 @@
 **Thoughts:** I'm starting to think that the asynchronous side of Javascript was intentionally designed by a very sick, evil, and disturbing human being. I'm also starting to develop insomnia...so far so good though.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 6: January 10, 2017
+
+
+**Today's Progress**: Fixed my authentication issue. It turned out to be a issue with a recent update to version 4.6.6 of mongoose. 
+
+**Thoughts:** I'm making good progress, however I do think that I'll need to find a good balance soon between trying to learn and retain new concepts (especially in javascript) and building out features in my application.
+
+**Link to work:** [Tassly](https://www.tassly.com)
