@@ -54,3 +54,13 @@
 **Thoughts:** I'm making good progress, however I do think that I'll need to find a good balance soon between trying to learn and retain new concepts (especially in javascript) and building out features in my application.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+
+### Day 7: January 10, 2017
+
+
+**Today's Progress**: Wrote some unit tests in mocha as well as spent some time learning about the Node.js event loop.
+
+**Thoughts:** Feeling good. I still need to work on how I divide my time between day to day progress and learning new concepts.
+
+**Link to work:** [Tassly](https://www.tassly.com)
