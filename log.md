@@ -64,3 +64,12 @@
 **Thoughts:** Feeling good. I still need to work on how I divide my time between day to day progress and learning new concepts.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 8: January 11, 2017
+
+
+**Today's Progress**: Cleaned up my error handling code in express and implemented all CRUD functionality in my assignments module of tassly.
+
+**Thoughts:** I'm making good progress. I've been gaining a much better understanding of the frameworks and libraries that my app relies on as I continue to build new features, refactor old code, and look for best practices. 
+
+**Link to work:** [Tassly](https://www.tassly.com)
