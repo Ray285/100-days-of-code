@@ -56,7 +56,7 @@
 **Link to work:** [Tassly](https://www.tassly.com)
 
 
-### Day 7: January 10, 2017
+### Day 7: January 11, 2017
 
 
 **Today's Progress**: Wrote some unit tests in mocha as well as spent some time learning about the Node.js event loop.
@@ -65,7 +65,7 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
-### Day 8: January 11, 2017
+### Day 8: January 12, 2017
 
 
 **Today's Progress**: Cleaned up my error handling code in express and implemented all CRUD functionality in my assignments module of tassly.
@@ -73,3 +73,13 @@
 **Thoughts:** I'm making good progress. I've been gaining a much better understanding of the frameworks and libraries that my app relies on as I continue to build new features, refactor old code, and look for best practices. 
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 8: January 14, 2017
+
+
+**Today's Progress**: Refactored the assignment model on the Angular side of my app. Looks like there is a lot of code that will need to be changed in all of the models.
+
+**Thoughts:**  Progress is still goood. I'm learning to be a little more patient with improving. I'm also starting to catch and fix a lot of mistakes that I made early on in developing my app, because I have a much better understanding of how everything works.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
