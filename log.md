@@ -83,3 +83,12 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
+### Day 8: January 15, 2017
+
+
+**Today's Progress**: Made some changes to my assignment model in my mongoose schema and made a lot of updates to the front-end for editing, creating, and deleting assignments to more easily update the UI. I also had to do some refactoring in my assignments route to check for empty requests, send back a copy of the modified assignment in the response, and a few other minor changes.
+
+**Thoughts:** I'm learning to embrace the process of struggling with a problem and rethinking my approach until I figure it out and solve it.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
