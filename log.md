@@ -74,7 +74,7 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
-### Day 8: January 14, 2017
+### Day 9: January 14, 2017
 
 
 **Today's Progress**: Refactored the assignment model on the Angular side of my app. Looks like there is a lot of code that will need to be changed in all of the models.
@@ -83,7 +83,7 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
-### Day 8: January 15, 2017
+### Day 10: January 15, 2017
 
 
 **Today's Progress**: Made some changes to my assignment model in my mongoose schema and made a lot of updates to the front-end for editing, creating, and deleting assignments to more easily update the UI. I also had to do some refactoring in my assignments route to check for empty requests, send back a copy of the modified assignment in the response, and a few other minor changes.
