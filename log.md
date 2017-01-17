@@ -92,3 +92,12 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
+### Day 11: January 16, 2017
+
+
+**Today's Progress**: Most of today was focused on learning best practices and approaches to design a data model in MongoDB. I also spent some time learning about Node.js Streams, Buffers, and Pipes. I made a few modifications to my routes, but nothing major in terms of changes.
+
+**Thoughts:** I'm focusing on really trying to understand as much of the inner workings of the code that I write (or borrow from elsewhere) in my application. So far so good. Still a long way to go, just have to embrace the process and keep going.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
