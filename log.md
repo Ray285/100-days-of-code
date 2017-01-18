@@ -101,7 +101,7 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
-### Day 12: January 16, 2017
+### Day 12: January 17, 2017
 
 
 **Today's Progress**: Setup logging with winston in my backend. Did some research before hand on best practices and how the library works in general. Also, spent some time watching videos in my bash course on Udemy.
