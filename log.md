@@ -101,3 +101,12 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
+### Day 12: January 16, 2017
+
+
+**Today's Progress**: Setup logging with winston in my backend. Did some research before hand on best practices and how the library works in general. Also, spent some time watching videos in my bash course on Udemy.
+
+**Thoughts:** Nothing major today. Still focusing on developing a deeper understanding of Node and the other technologies that I'm working with.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
