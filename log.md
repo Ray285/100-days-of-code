@@ -110,3 +110,11 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
+### Day 13: January 18, 2017
+
+
+**Today's Progress**: Got my environment setup with Meteor.js for another side project that I'll be helping with. Also, did some more logging cleanup and refactoring in my main app.
+
+**Thoughts:** Tired...
+
+**Link to work:** [Tassly](https://www.tassly.com)
