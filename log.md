@@ -118,3 +118,13 @@
 **Thoughts:** Tired...
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+
+### Day 14: January 19, 2017
+
+
+**Today's Progress**: Even more logging cleanup and refactoring in my main app, mostly using ES6 Syntax in my routes.
+
+**Thoughts:** Progress good. Work seems to be paying off in terms of my general development and problem solving skills. I'm getting much better at understanding documentation of the libraries that I use in my app, and even diving into the source code to track down problems when needed.
+
+**Link to work:** [Tassly](https://www.tassly.com)
