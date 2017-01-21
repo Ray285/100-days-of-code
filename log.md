@@ -128,3 +128,12 @@
 **Thoughts:** Progress good. Work seems to be paying off in terms of my general development and problem solving skills. I'm getting much better at understanding documentation of the libraries that I use in my app, and even diving into the source code to track down problems when needed.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 15: January 20, 2017
+
+
+**Today's Progress**: Lots of refactoring. Trying to convert as much node code as possible over to ES6 where applicable. Also, did some form validation in my angular client side code.
+
+**Thoughts:** Today was pretty productive. Still trying to figure out a rhythm in terms of learning vs doing, but so far so good.
+
+**Link to work:** [Tassly](https://www.tassly.com)
