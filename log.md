@@ -137,3 +137,12 @@
 **Thoughts:** Today was pretty productive. Still trying to figure out a rhythm in terms of learning vs doing, but so far so good.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 16: January 21, 2017
+
+
+**Today's Progress**: Mostly learning today. Spent some time learning about the node.js 'http' module as well as a few new things about TCP/IP, mime types, template engines, and bash scripts. Also, did a little tweaking to the mobile styling on my landing page and main page of my app.
+
+**Thoughts:** So far so good. Embracing the process and taking it one day at a time.
+
+**Link to work:** [Tassly](https://www.tassly.com)
