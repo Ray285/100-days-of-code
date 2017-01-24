@@ -146,3 +146,12 @@
 **Thoughts:** So far so good. Embracing the process and taking it one day at a time.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 17: January 23, 2017
+
+
+**Today's Progress**: Made some UI improvements to the assignment create form for my application. Brought in a datepicker for due date, and a tag search component for setting the subject. Few minor styling tweaks as well.
+
+**Thoughts:** So far so good. I need to spend some time going back and reviewing responsive web design and how to optimize images across different screen sizes.
+
+**Link to work:** [Tassly](https://www.tassly.com)
