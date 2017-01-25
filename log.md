@@ -155,3 +155,12 @@
 **Thoughts:** So far so good. I need to spend some time going back and reviewing responsive web design and how to optimize images across different screen sizes.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 18: January 24, 2017
+
+
+**Today's Progress**: More UI changes. Modified my create assignment form to restrict the user's ability to submit until all field have been filled out. Also, started to layout the updates and important notifications part of the main screen.
+
+**Thoughts:** Feeling good. I can see my own progress and improvement (although slowly) a little more each day.
+
+**Link to work:** [Tassly](https://www.tassly.com)
