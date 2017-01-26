@@ -164,3 +164,13 @@
 **Thoughts:** Feeling good. I can see my own progress and improvement (although slowly) a little more each day.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+
+### Day 19: January 25, 2017
+
+
+**Today's Progress**: Even more UI Changes today. Refactored my create and edit assignment form into the same component. Still ironing out some minor issues.
+
+**Thoughts:** Exhausted.
+
+**Link to work:** [Tassly](https://www.tassly.com)
