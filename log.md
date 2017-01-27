@@ -174,3 +174,12 @@
 **Thoughts:** Exhausted.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 20: January 26, 2017
+
+
+**Today's Progress**: I spent most of my time learning more about Node.js streams. I also worked on an interview practice question in python in order to make sure I'm retaining what I've learned so far.
+
+**Thoughts:** I'm going to try and setup a plan that I can follow for this challenge in order to make sure that in addition to practicing coding, I'm able to go back and review previously learned concepts. Other than that everything is going good.
+
+**Link to work:** [Tassly](https://www.tassly.com)
