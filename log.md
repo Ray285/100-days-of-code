@@ -183,3 +183,12 @@
 **Thoughts:** I'm going to try and setup a plan that I can follow for this challenge in order to make sure that in addition to practicing coding, I'm able to go back and review previously learned concepts. Other than that everything is going good.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 21: January 30, 2017
+
+
+**Today's Progress**: Worked on some UI changes with Angular UI bootstrap. Implemented a confirmation modal along with the corresponding state and component for when a user deletes an assignment.
+
+**Thoughts:** Things are going good. I got off track a little bit over the weekend due to moving but I'm right back at it today. I think the break may have actually been beneficial so that I could come back and start fresh.
+
+**Link to work:** [Tassly](https://www.tassly.com)
