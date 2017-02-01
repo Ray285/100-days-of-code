@@ -192,3 +192,12 @@
 **Thoughts:** Things are going good. I got off track a little bit over the weekend due to moving but I'm right back at it today. I think the break may have actually been beneficial so that I could come back and start fresh.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 22: January 31, 2017
+
+
+**Today's Progress**: Did/Still doing some refactoring of my states with Angular UI router. Also, went through some tutorials on NPM, Express and Python.
+
+**Thoughts:** Just taking it one day at time has been working well, but, I think I need to identify the areas and concepts that I need to improve my skill and understanding of and start focusing more time on those.
+
+**Link to work:** [Tassly](https://www.tassly.com)
