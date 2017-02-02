@@ -201,3 +201,12 @@
 **Thoughts:** Just taking it one day at time has been working well, but, I think I need to identify the areas and concepts that I need to improve my skill and understanding of and start focusing more time on those.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 23: February 1st, 2017
+
+
+**Today's Progress**: Caught and fixed a few bugs in my UI and started to fix some styling issues that have been plaguing my app for as long as I can remember, due to my fear and hatred of CSS. Also, I spent some time learning more about different approaches to structuring an express app as well as how to organize middleware.
+
+**Thoughts:** Still need to take some time out to look at which areas I'm weak in so that I can put more focus there. I may try to find some interview questions or exams that I can take online to get a better idea.
+
+**Link to work:** [Tassly](https://www.tassly.com)
