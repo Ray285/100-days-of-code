@@ -210,3 +210,21 @@
 **Thoughts:** Still need to take some time out to look at which areas I'm weak in so that I can put more focus there. I may try to find some interview questions or exams that I can take online to get a better idea.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 24: February 2nd, 2017
+
+
+**Today's Progress**: Worked on more UI changes. Made my side bar and top nav elements suitable for mobile devices. 
+
+**Thoughts:** Nothing much. I've started to take a mobile first approach and work on my site on a typical smart phone screen size to make sure everything works as expected. I figured that this will help down the line when I want to port it to mobile via Ionic or some other hybrid framework.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 25: February 3rd, 2017
+
+
+**Today's Progress**: Even more UI changes. I added a modal for creating a new course and worked on some of the controller and service logic.
+
+**Thoughts:** N/A
+
+**Link to work:** [Tassly](https://www.tassly.com)
