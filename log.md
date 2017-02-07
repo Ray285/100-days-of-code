@@ -228,3 +228,12 @@
 **Thoughts:** N/A
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 26: February 6th, 2017
+
+
+**Today's Progress**: Worked on the api endpoint for deleting a course. Also, started learning how to use Sketch for UI design.
+
+**Thoughts:** My app is progressing nicely and I'm enjoying learning about other tools such as Sketch. I need to be more strict in my schedule in order to make sure I don't jump from one thing to another and end up forgetting concepts and tools that I previously learned.
+
+**Link to work:** [Tassly](https://www.tassly.com)
