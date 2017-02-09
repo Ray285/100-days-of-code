@@ -237,3 +237,19 @@
 **Thoughts:** My app is progressing nicely and I'm enjoying learning about other tools such as Sketch. I need to be more strict in my schedule in order to make sure I don't jump from one thing to another and end up forgetting concepts and tools that I previously learned.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 27: February 7th, 2017
+
+
+**Today's Progress**:Continued work on deleting a course endpoint. I'm still in the process of evaluating my cuurrent data model in MongoDB to see if I can speed up this process.
+
+**Thoughts:** I've been thinking about how I could improve my memory of concepts that I've learned previously as I shift my focus to other areas and topics. I read a good article about spaced repetition learning systems and I've decided to give the flashcard SRS software Anki a try.
+**Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 28: February 8th, 2017
+
+
+**Today's Progress**: Kind of the opposite of progress as I realized that I had accidentally deleted my MongoDB's data upon removing it from my github repo. This is probably still a good thing as I was originally storing it there to make it easy to keep data consistent across my local instance and the one on my server. Luckily, I found a new tool to help with administering my MongoDB instance, called RoboMongo. So far it looks pretty promising.
+
+**Thoughts:** Going to start tracking what I learn in Anki and quizzing myself regularly to get better at retaining information. Hopefully it works successfully.
+**Link to work:** [Tassly](https://www.tassly.com)
