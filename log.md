@@ -253,3 +253,11 @@
 
 **Thoughts:** Going to start tracking what I learn in Anki and quizzing myself regularly to get better at retaining information. Hopefully it works successfully.
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 29: February 20th, 2017
+
+
+**Today's Progress**: Finally back to working on my project after having to take a break to get my laptop screen repaired. I worked on ordering the assignments sub document in my courses document by the due date. Now, I'm trying to figure out the best way to update my data on the front-end in my controllers once a change has been made.
+
+**Thoughts:** I've been using Anki and it's awesome! It's helped me to take notes in the form of a question and keep track of the concepts that I study. I don't feel like I'm jumping from one concept or tutorial to another anymore.
+**Link to work:** [Tassly](https://www.tassly.com)
