@@ -262,7 +262,7 @@
 **Thoughts:** I've been using Anki and it's awesome! It's helped me to take notes in the form of a question and keep track of the concepts that I study. I don't feel like I'm jumping from one concept or tutorial to another anymore.
 **Link to work:** [Tassly](https://www.tassly.com)
 
-### Day 29: February 20th, 2017
+### Day 30: February 21st, 2017
 
 
 **Today's Progress**: Figured out an approach to updating my models using the angular.copy() function as oppose to the $watch or $apply mehtods. I'm still researching which approach is best from a performance standpoint.
