@@ -244,6 +244,7 @@
 **Today's Progress**:Continued work on deleting a course endpoint. I'm still in the process of evaluating my cuurrent data model in MongoDB to see if I can speed up this process.
 
 **Thoughts:** I've been thinking about how I could improve my memory of concepts that I've learned previously as I shift my focus to other areas and topics. I read a good article about spaced repetition learning systems and I've decided to give the flashcard SRS software Anki a try.
+
 **Link to work:** [Tassly](https://www.tassly.com)
 
 ### Day 28: February 8th, 2017
@@ -252,6 +253,7 @@
 **Today's Progress**: Kind of the opposite of progress as I realized that I had accidentally deleted my MongoDB's data upon removing it from my github repo. This is probably still a good thing as I was originally storing it there to make it easy to keep data consistent across my local instance and the one on my server. Luckily, I found a new tool to help with administering my MongoDB instance, called RoboMongo. So far it looks pretty promising.
 
 **Thoughts:** Going to start tracking what I learn in Anki and quizzing myself regularly to get better at retaining information. Hopefully it works successfully.
+
 **Link to work:** [Tassly](https://www.tassly.com)
 
 ### Day 29: February 20th, 2017
@@ -260,6 +262,7 @@
 **Today's Progress**: Finally back to working on my project after having to take a break to get my laptop screen repaired. I worked on ordering the assignments sub document in my courses document by the due date. Now, I'm trying to figure out the best way to update my data on the front-end in my controllers once a change has been made.
 
 **Thoughts:** I've been using Anki and it's awesome! It's helped me to take notes in the form of a question and keep track of the concepts that I study. I don't feel like I'm jumping from one concept or tutorial to another anymore.
+
 **Link to work:** [Tassly](https://www.tassly.com)
 
 ### Day 30: February 21st, 2017
@@ -268,6 +271,7 @@
 **Today's Progress**: Figured out an approach to updating my models using the angular.copy() function as oppose to the $watch or $apply mehtods. I'm still researching which approach is best from a performance standpoint.
 
 **Thoughts:** Still getting back in the swing of things following my break. So far so good though.
+
 **Link to work:** [Tassly](https://www.tassly.com
 
 ### Day 31: February 26th, 2017
@@ -276,6 +280,7 @@
 **Today's Progress**: Spent some time learning the basics of Angular 2...not too excited about changing all my code over. I'll probably continue to slowly transistion over to 1.5 then refactor from there. Also, created a script for auto populating my mongoDB database with some seed data just incase I delete my local database...again.
 
 **Thoughts:** I'm working on getting better at prioritizing work. It feels like there are a million tasks for me to focus on with regards to my project. I'll need to focus in on the things that matter right now and in the near future in order to launch. 
+
 **Link to work:** [Tassly](https://www.tassly.com
 
 ### Day 32: February 27th, 2017
@@ -284,4 +289,5 @@
 **Today's Progress**: Worked on a todo app in Angular 2. Built the API and got started with the front-end. I also made some more progress on my route to provide my DB with seed data.
 
 **Thoughts:** Not too sure how I feel about TypeScript....feels a little too java-esque to me. I prefer javascript because of the freedom to try different styles and patterns...even though it has some wierd unintended consequences sometimes.
+
 **Link to work:** [Tassly](https://www.tassly.com
