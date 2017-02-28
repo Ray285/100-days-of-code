@@ -283,5 +283,5 @@
 
 **Today's Progress**: Worked on a todo app in Angular 2. Built the API and got started with the front-end. I also made some more progress on my route to provide my DB with seed data.
 
-**Thoughts:** Not too sure how I feel about TypeScript....feels a little to java-esque to me. I prefer javascript because of the freedom to try different styles and patterns...even though it has some wierd unintended consequences sometimes.
+**Thoughts:** Not too sure how I feel about TypeScript....feels a little too java-esque to me. I prefer javascript because of the freedom to try different styles and patterns...even though it has some wierd unintended consequences sometimes.
 **Link to work:** [Tassly](https://www.tassly.com
