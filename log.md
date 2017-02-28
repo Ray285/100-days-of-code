@@ -272,7 +272,7 @@
 
 **Thoughts:** Still getting back in the swing of things following my break. So far so good though.
 
-**Link to work:** [Tassly](https://www.tassly.com
+**Link to work:** [Tassly](https://www.tassly.com)
 
 ### Day 31: February 26th, 2017
 
@@ -281,7 +281,7 @@
 
 **Thoughts:** I'm working on getting better at prioritizing work. It feels like there are a million tasks for me to focus on with regards to my project. I'll need to focus in on the things that matter right now and in the near future in order to launch. 
 
-**Link to work:** [Tassly](https://www.tassly.com
+**Link to work:** [Tassly](https://www.tassly.com)
 
 ### Day 32: February 27th, 2017
 
@@ -290,4 +290,4 @@
 
 **Thoughts:** Not too sure how I feel about TypeScript....feels a little too java-esque to me. I prefer javascript because of the freedom to try different styles and patterns...even though it has some wierd unintended consequences sometimes.
 
-**Link to work:** [Tassly](https://www.tassly.com
+**Link to work:** [Tassly](https://www.tassly.com)
