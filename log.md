@@ -270,10 +270,18 @@
 **Thoughts:** Still getting back in the swing of things following my break. So far so good though.
 **Link to work:** [Tassly](https://www.tassly.com
 
-### Day 31: February 22nd, 2017
+### Day 31: February 26th, 2017
 
 
 **Today's Progress**: Spent some time learning the basics of Angular 2...not too excited about changing all my code over. I'll probably continue to slowly transistion over to 1.5 then refactor from there. Also, created a script for auto populating my mongoDB database with some seed data just incase I delete my local database...again.
 
 **Thoughts:** I'm working on getting better at prioritizing work. It feels like there are a million tasks for me to focus on with regards to my project. I'll need to focus in on the things that matter right now and in the near future in order to launch. 
+**Link to work:** [Tassly](https://www.tassly.com
+
+### Day 32: February 27th, 2017
+
+
+**Today's Progress**: Worked on a todo app in Angular 2. Built the API and got started with the front-end. I also made some more progress on my route to provide my DB with seed data.
+
+**Thoughts:** Not too sure how I feel about TypeScript....feels a little to java-esque to me. I prefer javascript because of the freedom to try different styles and patterns...even though it has some wierd unintended consequences sometimes.
 **Link to work:** [Tassly](https://www.tassly.com
