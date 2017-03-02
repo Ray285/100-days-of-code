@@ -291,3 +291,21 @@
 **Thoughts:** Not too sure how I feel about TypeScript....feels a little too java-esque to me. I prefer javascript because of the freedom to try different styles and patterns...even though it has some wierd unintended consequences sometimes.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 33: February 28th, 2017
+
+
+**Today's Progress**: Finished up my NodeJS course on Udemy. Started configuring my mongodb instance to be production ready by learning how to run it as a service as well as setting up authentication to the database from my application.
+
+**Thoughts:** Still unsure about Angular 2. I'm going to explore a few more frameworks to see what works best for my project. In the meantime I'll stick with Angular 1.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 34: March 1st, 2017
+
+
+**Today's Progress**: Continued work on properly setting up my mongoDB instance for production. I also went through a few tutorials on mongoose and mongodb in order to review as well as hopefully learn something new.
+
+**Thoughts:** N/A
+
+**Link to work:** [Tassly](https://www.tassly.com)
