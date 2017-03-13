@@ -310,11 +310,20 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
-### Day 35-40: March 12th, 2017
+### Day 35-40: March 11th, 2017
 
 
 **Progress**: Haven't remembered to also update github, but here's a summary. Spent some time working on Angular 2 tutorials, however I didn't care for the structure compared to Angular 1. I've decided to start picking up React in th meantime. So far I've built a Youtube starter app at https://ray285.github.io/ReactYoutubeApp/
 
 **Thoughts:** I definitely prefer React over Angular 2 at this point in time. However, I'll continue to try and learn both in parallel. I've also continued to use anki to quiz myself. I probably need to start using it daily, given the amount of topics that I'm learning and switching between. So far so good though. I'll get back to the daily logs starting today. Just gotta keep going #alwaysbecoding.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 41: March 12th, 2017
+
+
+**Progress**: Spent some more time working on my React and Redux course. Nothing too tangible for today, mostly project setup work and learning about Redux from the course and the documentation.
+
+**Thoughts:** I'm trying to focus on one thing at a time, even though I'm tempted to attempt to learn "all the things" at once. I can tell that my knowledge of Javascript is deepening overtime, however there are still a lot of things that I want to, and need to learn. My current struggle is prioritizing how I focus my time and energy.
 
 **Link to work:** [Tassly](https://www.tassly.com)
