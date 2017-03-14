@@ -327,3 +327,15 @@
 **Thoughts:** I'm trying to focus on one thing at a time, even though I'm tempted to attempt to learn "all the things" at once. I can tell that my knowledge of Javascript is deepening overtime, however there are still a lot of things that I want to, and need to learn. My current struggle is prioritizing how I focus my time and energy.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 41: March 13th, 2017
+
+
+**Progress**: More React Tutorials. Setup authentication on my local and prod MongoDB instances. Fixed a few issues in my app with my current setup, and added a few checks to my application seed data route.
+
+**Thoughts:** Today was a good day.
+
+![Alt text](https://media.giphy.com/media/CkKg32KdKyMve/giphy.gif "Optional title")
+
+
+**Link to work:** [Tassly](https://www.tassly.com)
