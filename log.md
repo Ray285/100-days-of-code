@@ -345,6 +345,6 @@
 
 **Progress**: Progressed in React + Redux course. Started building out a client app that uses the  [Open Weather Map API](www.http://openweathermap.org). I also started to dig deeper into Nginx in order to gain a better understanding of my current site configuration and hopefully improve the performance.
 
-**Thoughts:** I've been coding almost daily since my last log, however I've been too focused on other tasks such as customer validation and talking to actual users to make sure that I'm focusing on the right problem. I'm going to start updating my log daily again in order to keep myself disciplined in tracking my coding and learning progress.
+**Thoughts:** I've still been coding almost daily at work and at home since my last log, however I've been mostly focused on other tasks such as customer validation and talking to actual users to make sure that I'm focusing on the right problem; So I haven't been updating my log. I'm going to start updating my log daily again in order to keep myself disciplined in tracking my coding and learning progress.
 
 **Link to work:** [Tassly](https://www.tassly.com)
