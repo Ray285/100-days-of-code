@@ -328,7 +328,7 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
-### Day 41: March 13th, 2017
+### Day 42: March 13th, 2017
 
 
 **Progress**: More React Tutorials. Setup authentication on my local and prod MongoDB instances. Fixed a few issues in my app with my current setup, and added a few checks to my application seed data route.
@@ -337,5 +337,14 @@
 
 ![Alt text](https://media.giphy.com/media/CkKg32KdKyMve/giphy.gif "Optional title")
 
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 43: April 3rd, 2017
+
+
+**Progress**: Progressed in React + Redux course. Started building out a client app that uses the  [Open Weather Map API](www.http://openweathermap.org). I also started to dig deeper into Nginx in order to gain a better understanding of my current site configuration and hopefully improve the performance.
+
+**Thoughts:** I've been coding almost daily since my last log, however I've been too focused on other tasks such as customer validation and talking to actual users to make sure that I'm focusing on the right problem. I'm going to start updating my log daily again in order to keep myself disciplined in tracking my coding and learning progress.
 
 **Link to work:** [Tassly](https://www.tassly.com)
