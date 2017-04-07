@@ -348,3 +348,13 @@
 **Thoughts:** I've still been coding almost daily at work and at home since my last log, however I've been mostly focused on other tasks such as customer validation and talking to actual users to make sure that I'm focusing on the right problem; So I haven't been updating my log. I'm going to start updating my log daily again in order to keep myself disciplined in tracking my coding and learning progress.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 44: April 6th, 2017
+
+
+**Progress**: More progress in my react course. Integrated [react-sparklines](http://borisyankov.github.io/react-sparklines/) project into my weather app. Made some progress with Nginx, learning more about the architecture.
+
+**Thoughts:** I've been strugging to consistently track my progress, but I'll get there. So far so good, I've gotten much better about taking notes as well as quizzing myself to make sure I'm retaining the information that I spend time researching and learning about.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
