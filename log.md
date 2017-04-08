@@ -358,3 +358,11 @@
 
 **Link to work:** [Tassly](https://www.tassly.com)
 
+### Day 45: April 7th, 2017
+
+
+**Progress**: Made some more progress in my react course. Spent some time reviewing C and playing around with the Adafruit Circuit Playground....It's awesome!
+
+**Thoughts:** So far so good. My technical skills are definitely improving from a software perspective, however I would like to learn more about low-level programming and hardware in order to have a better overall understanding of how my code interacts with the computer's underlying hardware.
+
+**Link to work:** [Tassly](https://www.tassly.com)
