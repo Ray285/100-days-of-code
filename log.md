@@ -366,3 +366,21 @@
 **Thoughts:** So far so good. My technical skills are definitely improving from a software perspective, however I would like to learn more about low-level programming and hardware in order to have a better overall understanding of how my code interacts with the computer's underlying hardware.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 46: April 8th, 2017
+
+
+**Progress**: More progress in react redux course. Also, spent some time reviewing my Nginx reverse proxy configurations.
+
+**Thoughts:** So far so good. Not much to share today.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 47: April 9th, 2017
+
+
+**Progress**: Almost finished with my weather application in my react + redux course. I also made some progress in the Nginx book that I've been reading. Most of my existing configuration looks good, but I'm hoping there will be an opportunity to improve my site's performance.
+
+**Thoughts:** N/A
+
+**Link to work:** [Tassly](https://www.tassly.com)
