@@ -384,3 +384,15 @@
 **Thoughts:** N/A
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+
+### Day 48: April 19th, 2017
+
+
+**Progress**: Finished my weather application and integrated in google maps for displaying the city. Made more progress in learning Nginx, I'm currently working on configuring all my static assets to be served by Nginx in order to take some of the load off of my Node.js API. I also made some progress in my Mongoose course, so far it's still mostly a review of things that I've learned before, but I'm picking up a few new tidbits of information here and there.
+
+![](https://camo.githubusercontent.com/763a906eea015952042ee879497ea94ec8e81119/687474703a2f2f672e7265636f726469742e636f2f4a6e41454155596852622e676966)
+
+**Thoughts:** Feeling good about my progress today. I just need to focus on staying consistent and everything should be fine.
+
+**Link to work:** [Tassly](https://www.tassly.com)
