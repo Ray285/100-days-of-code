@@ -396,3 +396,12 @@
 **Thoughts:** Feeling good about my progress today. I just need to focus on staying consistent and everything should be fine.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 49: June 14th, 2017
+
+
+**Progress**: Wrapped up my Meteor + React course on Udemy. Started back learning Redux by building a sample blog application using the Redux-Form library. Going to push myself to start tracking my progress within this github repo again. I've been coding/learning consistently each day, I've just failed to keep my log up to date.
+
+**Thoughts:** Making good progress, I should be comfortable enough to apply my knowledge toward rebuilding some of my existing app's UI using React + Redux soon.
+
+**Link to work:** [Tassly](https://www.tassly.com)
