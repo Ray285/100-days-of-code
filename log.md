@@ -405,3 +405,12 @@
 **Thoughts:** Making good progress, I should be comfortable enough to apply my knowledge toward rebuilding some of my existing app's UI using React + Redux soon.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 50: June 23rd, 2017
+
+
+**Progress**: Spent some time working on a python security triage automation tool for work as well as playing around with CSS animations and keyframes.
+
+**Thoughts:** So far so good.
+
+**Link to work:** [Tassly](https://www.tassly.com)
