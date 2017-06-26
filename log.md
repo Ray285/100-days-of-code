@@ -414,3 +414,13 @@
 **Thoughts:** So far so good.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+
+### Day 51: June 25th, 2017
+
+
+**Progress**: Started diving back into docker. Configured my ghost blog as a docker container and deployed it on my ubuntu server. I'll try to get my main up configured in docker as well soon.
+
+**Thoughts:** So far so good.
+
+**Link to work:** [Tassly](https://www.tassly.com)
