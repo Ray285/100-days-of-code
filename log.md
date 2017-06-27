@@ -424,3 +424,12 @@
 **Thoughts:** So far so good.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 52: June 26th, 2017
+
+
+**Progress**: Spent some time working on some CSS animations for a [Team Treehouse](https://www.teamtreehouse.com) Leaderboard project. I also spent some time on the Advanced JS course from Kyle Simpson on Pluralsight. So far so good.
+
+**Thoughts:** Just focusing on staying consistent at the moment. My organization skills still need some work but in the meantime I'll just have to focus on #GSD lol.
+
+**Link to work:** [Tassly](https://www.tassly.com)
