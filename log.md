@@ -433,3 +433,12 @@
 **Thoughts:** Just focusing on staying consistent at the moment. My organization skills still need some work but in the meantime I'll just have to focus on #GSD lol.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 52: July 2nd, 2017
+
+
+**Progress**: Progressed in the Advanced JS course from Kyle Simpson as well as some bonus React + Redux videos from Stephen Grider.
+
+**Thoughts:** I've been reading some interesting articles on time management and various techniques / habits I can use to make my days more productive such as waking up a few hours early, focusing on the most difficult task first, working in 50 minute sprints followed by 10-minute breaks, and a few others. I'll be experimenting with these techniques over the next week or two to see what works best. Otherwise, everything else is progressing nicely.
+
+**Link to work:** [Tassly](https://www.tassly.com)
