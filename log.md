@@ -451,3 +451,21 @@
 **Thoughts:** Starting to experiment with the time management techniques, I started today with the hardest tasks on my todo-list and worked my way onto other smaller tasks afterwards. So far so good.
 
 **Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 55: July 5th, 2017
+
+
+**Progress**: Completed some Python tutorials on Udemy along with some redux tutorials on Egghead.io.
+
+**Thoughts:** So far so good.
+
+**Link to work:** [Tassly](https://www.tassly.com)
+
+### Day 56: July 6th, 2017
+
+
+**Progress**: Worked on a python flask API for a machine learning recommendation system (also built with python) that reads text and returns keywords for making learning recommendations. Decided to go with flask after experimenting with a few other architecture approaches such as running the script in a child process via NodeJS as well as researching RabbitMQ. 
+
+**Thoughts:** Still working on applying some of the time management techniques that I've learned due to my priorities switching so frequently between work and my personal projects. I'll just have to keep at it.
+
+**Link to work:** [Tassly](https://www.tassly.com)
